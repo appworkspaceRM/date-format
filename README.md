@@ -65,3 +65,4 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+![code-snapshot](https://github.com/appworkspaceRM/date-format/assets/135511281/d8e44549-9ffa-4d38-933c-1e387df4cbb9)
